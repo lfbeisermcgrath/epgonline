@@ -52,6 +52,7 @@ Our application form for papers is still open for Q1 2021 (https://forms.gle/Lst
 
 *Growing Apart: China and India at the Kigali Amendment to the Montreal Protocol*
 - Shiming Yang (University of Southern California) 
+
 *Cheaters, market leaders, standard setters or rule-breakers? The who’s who of the global waste regime: Chinese and European perspectives on the Waste Ban*
 - Anran Luo (University of Freiburg)
 
