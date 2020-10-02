@@ -60,5 +60,6 @@ Our application form for papers is still open for Q1 2021 (https://forms.gle/Lst
 
 *Reporting on Climate-Change Action: Paris Agreement, Fridays for Future and the Framing in Public News Worldwide*
 - Lisa Lechner (University of Innsbruck)
+
 *Developing a continuous climate concern scale for use in experimental research*
 - Parrish Bergquist (Georgetown University)
