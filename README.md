@@ -19,9 +19,10 @@ Our application form for papers is still open for Q1 2021 (https://forms.gle/Lst
 ### Thursday, 1st October
 
 *"Leave It As It Is:" Network Effects on Protected Lands*
-Darren Hawkins (Brigham Young University)
+- Darren Hawkins (Brigham Young University)
+
 *Acres for the Affluent: How Governments and Nonprofits Conserve Land*
-Samantha Zuhlke (Texas A&M)
+- Samantha Zuhlke (Texas A&M)
 
 Thursday, 15th October
 
