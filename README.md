@@ -24,37 +24,40 @@ Our application form for papers is still open for Q1 2021 (https://forms.gle/Lst
 *Acres for the Affluent: How Governments and Nonprofits Conserve Land*
 - Samantha Zuhlke (Texas A&M)
 
-Thursday, 15th October
+### Thursday, 15th October
 
 *The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters*
-Talbot Andrews (Princeton University)
-*Temperature shocks and climate policy*
-Sam Rowan (Concordia University)
+- Talbot Andrews (Princeton University)
 
-Thursday, 29th October
+*Temperature shocks and climate policy*
+- Sam Rowan (Concordia University)
+
+### Thursday, 29th October
 
 *Diffusing Climate Frames in International Organizations*
-Shiming Yang (University of Southern California)
-*Understanding Network Building Strategy in Environmental Governance*
-Kristin Olofsson (Oklahoma State University)
+- Karina Shyrokykh (Stockholm University)
 
-Thursday, 12th November
+*Understanding Network Building Strategy in Environmental Governance*
+- Kristin Olofsson (Oklahoma State University)
+
+### Thursday, 12th November
 
 *Conservation and positive spillovers on corruption: Establishment of protected areas across Africa reduced local bribery*
-Aksel Sundström (University of Gothenburg)
-*Bureaucratic Capacity Building and Climate Cooperation*
-Yves Steinebach (LMU)
+- Aksel Sundström (University of Gothenburg)
 
-Thursday, 19th November
+*Bureaucratic Capacity Building and Climate Cooperation*
+- Yves Steinebach (LMU)
+
+### Thursday, 19th November
 
 *Growing Apart: China and India at the Kigali Amendment to the Montreal Protocol*
-Shiming Yang (University of Southern California) 
+- Shiming Yang (University of Southern California) 
 *Cheaters, market leaders, standard setters or rule-breakers? The who’s who of the global waste regime: Chinese and European perspectives on the Waste Ban*
-Anran Luo (University of Freiburg)
+- Anran Luo (University of Freiburg)
 
-Thursday, 10th December
+### Thursday, 10th December
 
 *Reporting on Climate-Change Action: Paris Agreement, Fridays for Future and the Framing in Public News Worldwide*
-Lisa Lechner (University of Innsbruck)
+- Lisa Lechner (University of Innsbruck)
 *Developing a continuous climate concern scale for use in experimental research*
-Parrish Bergquist (Georgetown University)
+- Parrish Bergquist (Georgetown University)
