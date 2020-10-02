@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## EPG Online
 
-You can use the [editor on GitHub](https://github.com/lfbeisermcgrath/epgonline/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Environmental Politics and Governance (EPG) Online is a new webinar on environmental politics and governance. Building on the success of the annual [EPG conference](https://depts.washington.edu/envirpol/?page_id=1542), EPG Online is an online seminar series dedicated to showcasing the latest research on the political, institutional, and societal dimensions of environmental challenges from a variety of disciplines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It remains unlikely that there will be a return to the usual speaker series and conferences this year. Thus, we hope that EPG Online can serve as a great meeting place for those interested in environmental politics and governance to share cutting edge research and keep in touch with and meet colleagues virtually.
 
-### Markdown
+### Time and Place
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EPG Online seminars are generally held every two weeks on **Thursdays** 8:30 West Coast, 11:30 East Coast, 16:30 UK, 17:30 Central Europe, 21:00 Delhi, 23:30 Beijing. Each seminar consists of two presentations with Q&As, each lasting 30 minutes.
 
-```markdown
-Syntax highlighted code block
+The seminars are held online with Zoom. To receive the log-in information please sign up to the [EPG Online mailing list.](https://forms.gle/Xxbckc3DYu2EefE67)
 
-# Header 1
-## Header 2
-### Header 3
+### Paper Submission
 
-- Bulleted
-- List
+Our application form for papers is still open for Q1 2021 (https://forms.gle/LstSAzg4ZV7xFvLH8). We will announce an official call and deadline later on this year.
 
-1. Numbered
-2. List
+## Q4 2020 Schedule
 
-**Bold** and _Italic_ and `Code` text
+### Thursday, 1st October
 
-[Link](url) and ![Image](src)
-```
+*"Leave It As It Is:" Network Effects on Protected Lands*
+Darren Hawkins (Brigham Young University)
+*Acres for the Affluent: How Governments and Nonprofits Conserve Land*
+Samantha Zuhlke (Texas A&M)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thursday, 15th October
 
-### Jekyll Themes
+*The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters*
+Talbot Andrews (Princeton University)
+*Temperature shocks and climate policy*
+Sam Rowan (Concordia University)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lfbeisermcgrath/epgonline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thursday, 29th October
 
-### Support or Contact
+*Diffusing Climate Frames in International Organizations*
+Shiming Yang (University of Southern California)
+*Understanding Network Building Strategy in Environmental Governance*
+Kristin Olofsson (Oklahoma State University)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thursday, 12th November
+
+*Conservation and positive spillovers on corruption: Establishment of protected areas across Africa reduced local bribery*
+Aksel Sundström (University of Gothenburg)
+*Bureaucratic Capacity Building and Climate Cooperation*
+Yves Steinebach (LMU)
+
+Thursday, 19th November
+
+*Growing Apart: China and India at the Kigali Amendment to the Montreal Protocol*
+Shiming Yang (University of Southern California) 
+*Cheaters, market leaders, standard setters or rule-breakers? The who’s who of the global waste regime: Chinese and European perspectives on the Waste Ban*
+Anran Luo (University of Freiburg)
+
+Thursday, 10th December
+
+*Reporting on Climate-Change Action: Paris Agreement, Fridays for Future and the Framing in Public News Worldwide*
+Lisa Lechner (University of Innsbruck)
+*Developing a continuous climate concern scale for use in experimental research*
+Parrish Bergquist (Georgetown University)
