@@ -6,13 +6,13 @@ It remains unlikely that there will be a return to the usual speaker series and 
 
 ### Time and Place
 
-EPG Online seminars are generally held every two weeks on **Thursdays** 8:30 West Coast, 11:30 East Coast, 16:30 UK, 17:30 Central Europe, 21:00 Delhi, 23:30 Beijing. Each seminar consists of two presentations with Q&As, each lasting 30 minutes.
+EPG Online seminars are generally held every two weeks on **Thursdays** 16:30 UK time (typically 8:30 West Coast, 11:30 East Coast, 17:30 Central Europe, 21:00 Delhi, 23:30 Beijing). Each seminar consists of two presentations with Q&As, each lasting 30 minutes.
 
 The seminars are held online with Zoom. To receive the log-in information please sign up to the [EPG Online mailing list.](https://forms.gle/Xxbckc3DYu2EefE67)
 
 ### Paper Submission
 
-Our application form for papers is still open for Q1 2021 (https://forms.gle/LstSAzg4ZV7xFvLH8). We will announce an official call and deadline later on this year.
+Our application form for papers is open for Q1 2021 (https://forms.gle/LstSAzg4ZV7xFvLH8). The deadline for papers to be presented in Q1 2021 is 3rd December. However, applications will continue to be accepted on a rolling basis for future sessions.
 
 ## Q4 2020 Schedule
 
