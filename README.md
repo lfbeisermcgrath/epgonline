@@ -12,54 +12,54 @@ The seminars are held online with Zoom. To receive the log-in information please
 
 ### Paper Submission
 
-Our application form for papers is open for Q1 2021 (https://forms.gle/LstSAzg4ZV7xFvLH8). The deadline for papers to be presented in Q1 2021 is 3rd December. However, applications will continue to be accepted on a rolling basis for future sessions.
+Our application form for papers is open for Q2 2021 (https://forms.gle/LstSAzg4ZV7xFvLH8). The deadline and full call for papers will be announced in the coming weeks. However, applications will continue to be accepted on a rolling basis for future sessions.
 
-## Q4 2020 Schedule
+## Q1 2021 Schedule
 
-### Thursday, 1st October
+### 14th January
 
-*"Leave It As It Is:" Network Effects on Protected Lands*
-- Darren Hawkins (Brigham Young University)
+Trade Effects of Environmental Agreements: Uncovering De Facto Environmental Clubs
+Clara Brandi (German Development Institute), Jean-Frédéric Morin (Laval University), Jakob Schwab (German Development Institute)
 
-*Acres for the Affluent: How Governments and Nonprofits Conserve Land*
-- Samantha Zuhlke (Texas A&M)
+Institutional Roots of International Alliances: Party Groupings and Position Similarity at Global Climate Negotiations
+Federica Genovese (Essex), Richard J. McAlexander (UPenn), Johannes Urpelainen (Johns Hopkins SAIS)
 
-### Thursday, 15th October
+### 28th January
 
-*The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters*
-- Talbot Andrews (Princeton University)
+Who is delaying state climate action? Interest groups and coalitions in legislative struggles
+Trevor Culhane, Galen Hall, and J. Timmons Roberts (Brown)
 
-*Temperature shocks and climate policy*
-- Sam Rowan (Concordia University)
+The Effectiveness of Network Administrative Organization in Governing Inter-jurisdictional Nature Resource
+Yixin Liu (FSU) and Chao Tan (Guandong Research Institute of Water Resources and Hydropower)
 
-### Thursday, 29th October
+### 11th February
 
-*Diffusing Climate Frames in International Organizations*
-- Karina Shyrokykh (Stockholm University)
+Environmental commitments in different types of democracies: The role of liberal, deliberative and social-liberal politics
+Sverker Jagers (Gothenburg) and Marina Povitkina (Oslo)
 
-*Understanding Network Building Strategy in Environmental Governance*
-- Kristin Olofsson (Oklahoma State University)
+How Much Do People Value Future Generations? Climate Change, Trust, and Public Support for Future-Oriented Policies
+Malcolm Fairbrother (Umeå University), Gustaf Arrhenius (Stockholm), Krister Bykvist (Stockholm), and Tim Campbell (Institute for Future Studies)
 
-### Thursday, 12th November
+### 25th February
 
-*Conservation and positive spillovers on corruption: Establishment of protected areas across Africa reduced local bribery*
-- Aksel Sundström (University of Gothenburg)
+The Institutional Sources of Economic Transformation: Energy Policy from the Oil Crises to Climate Change
+Jared Finnegan (UC Berkeley), Phillip Lipscy (University of Toronto), Jonas Meckling (UC Berkeley), and Florence Metz (University of Twente)
 
-*Bureaucratic Capacity Building and Climate Cooperation*
-- Yves Steinebach (LMU)
+Beyond Lights: The Changing Impact of Rural Electrification in Indian Agriculture
+Sudatta Ray (Stanford)
 
-### Thursday, 19th November
+### 11th March
 
-*Growing Apart: China and India at the Kigali Amendment to the Montreal Protocol*
-- Shiming Yang (University of Southern California) 
+The Power of Leadership: Implementation Strategies and Low-Carbon Policy Experimentation in Chinese Cities
+Weila Gong (TU Munich) 
 
-*Cheaters, market leaders, standard setters or rule-breakers? The who’s who of the global waste regime: Chinese and European perspectives on the Waste Ban*
-- Anran Luo (University of Freiburg)
+The role of international organizations in equitable planned relocation
+Gabriela Nagle Alverio (Duke), Suki H. Hoagland (Stanford), Erin Coughlan de Perez (Red Cross Crescent Climate Centre), and Katharine J. Mach (Miami)
 
-### Thursday, 10th December
+### 25th March
 
-*Reporting on Climate-Change Action: Paris Agreement, Fridays for Future and the Framing in Public News Worldwide*
-- Lisa Lechner (University of Innsbruck)
+Palm oil and the politics of deforestation in Indonesia
+Elías Cisneros (Göttingen), Krisztina Kis-Katos (Göttingen), and Nunung Nuryartono (Bogor)
 
-*Developing a continuous climate concern scale for use in experimental research*
-- Parrish Bergquist (Georgetown University)
+Ecology of Ecological NGOs: Agenda Setting in the Global Governance of Wildlife
+Takumi Shibaike (European University Institute)
